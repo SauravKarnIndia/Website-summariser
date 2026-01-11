@@ -1,7 +1,7 @@
 # AI-driven Website-summariser
 A small web application where a user can enter any public URL. The app fetches the page content, sends it to an AI model, and shows a short summary.
 
-## Discription
+## Description
 This web application allows users to enter a public URL and receive a concise AI-generated summary of the webpage content.
 
 ## Tech Stack
