@@ -21,6 +21,17 @@ OPENAI_API_KEY=your_api_key_here
 Copy code
 4. Run `node index.js`
 
+## Run code
+Run `node index.js`
+ You should see something like "Server running on http://localhost:5000"
+ Keep this terminal open—the backend needs to be running for the frontend to work.
+Open a new terminal (keep the backend one running) and navigate to the frontend folder.
+ Start the development server:
+   
+   npm run dev
+   
+   This will open your browser to something like "http://localhost:5173/" where you can use the app!
+
 ## Notes
 - Only public URLs are supported
 - Large pages are truncated before being sent to the AI
